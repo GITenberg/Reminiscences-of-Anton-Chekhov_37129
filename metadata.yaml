@@ -40,7 +40,7 @@ creator:
     - Бунин, Иван Алексеевич
     - Bunin, I. A. (Ivan Alekseevich)
     - Bunin, Ivan Alekseyevich
-    birthdate: &id001 1870
+    birthdate: 1870
     deathdate: 1953
     gutenberg_agent_id: '38667'
     url: http://www.gutenberg.org/2009/agents/38667
@@ -49,12 +49,14 @@ creator:
     - Koeprin, Alexander I.
     - Куприн, Александр Иванович
     - Kuprin, Aleksandr Ivanovich
-    birthdate: *id001
+    birthdate: 1870
     deathdate: 1938
     gutenberg_agent_id: '1552'
     url: http://www.gutenberg.org/2009/agents/1552
     wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37129#Reminiscences-of-Anton-Chekhov
 gutenberg_issued: '2011-08-19'
 gutenberg_type: Text
 identifiers:
