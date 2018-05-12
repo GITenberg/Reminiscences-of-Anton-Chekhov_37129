@@ -1,0 +1,71 @@
+_repo: Reminiscences-of-Anton-Chekhov_37129
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Koteliansky, Samuel Solomonovitch
+    - Котелянский, Самуел Соломонович
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, S.S.
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+  - agent_name: Woolf, Leonard
+    alias: Woolf, Leonard Sidney
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '4565'
+    url: http://www.gutenberg.org/2009/agents/4565
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolf
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gorky, Maksim
+    aliases:
+    - Peshkov, Alexey Maximiovich
+    - Горький, Максим
+    - Gorky, Maxim
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+  - agent_name: Bunin, Ivan Alekseevich
+    aliases:
+    - Бунин, Иван Алексеевич
+    - Bunin, I. A. (Ivan Alekseevich)
+    - Bunin, Ivan Alekseyevich
+    birthdate: &id001 1870
+    deathdate: 1953
+    gutenberg_agent_id: '38667'
+    url: http://www.gutenberg.org/2009/agents/38667
+  - agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
+    aliases:
+    - Koeprin, Alexander I.
+    - Куприн, Александр Иванович
+    - Kuprin, Aleksandr Ivanovich
+    birthdate: *id001
+    deathdate: 1938
+    gutenberg_agent_id: '1552'
+    url: http://www.gutenberg.org/2009/agents/1552
+    wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
+description: ''
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Russian -- 19th century -- Biography'
+- !lcc 'PG'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904'
+title: Reminiscences of Anton Chekhov
+url: http://www.gutenberg.org/ebooks/37129
